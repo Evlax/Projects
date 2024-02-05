@@ -3,8 +3,8 @@
 #include <string.h>
 #include <curl/curl.h>
 
-#define APPLICATION_ID "1bfc9191060e454d8206981d91c27d02"
-#define APPLICATION_SECRET "eNfmtQjGy5zeMNbSew6JhVMbd0VZnlE7MAFtdzGVY_pjzbbAvPYBYt6H12-iaSvu4xjrGf4Rf0PmFz-qV-t5NA"
+#define APPLICATION_ID ""
+#define APPLICATION_SECRET ""
 
 int main() {
     CURL *curl;
