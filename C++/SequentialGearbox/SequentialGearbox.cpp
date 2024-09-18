@@ -1,7 +1,6 @@
 #include <string>
 #include <iostream>
 
-
 class State;
 class StateContext;
 class FirstGear;
